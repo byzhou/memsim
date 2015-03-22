@@ -1,0 +1,10 @@
+*.log 
+*.bak 
+*.ic0 
+*.st0 
+*.su0 
+*.tr0 
+*0 
+*1 
+*.out 
+logFile
