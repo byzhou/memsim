@@ -7,4 +7,10 @@
 *0 
 *1 
 *.out 
+*.pa0
+*.ic0
+*.tr0
+*.st0
+*.log
+scope.log.bak
 logFile
