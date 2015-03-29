@@ -3,7 +3,9 @@ default:all
 
 all:scope
 hspice:
-	hspice t_meta.sp
+	hspice t_meta.sp;\
+	echo -e "\n";\
+	figlet -c -f basic sim success
 	#hspice t_mem.sp
 
 scope:hspice
